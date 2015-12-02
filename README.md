@@ -9,7 +9,7 @@
 ##### If you want to chat and ask questions, contact @ImagicalTeam on Twitter or join our Gitter Chat.
 
 ### For an easy download, it's available from <a href="http://pocketmine.minedox.com">here</a>!
-#### If the website is not updated, check out here: http://legocraft.me/pm/
+#### If the website is not updated, check out here: http://www.reh.tw/pmphar/
 
 ### FastTransfer will not work in PocketMine 0.13.0. It may never work from now :fearful:
 #### This is due to a packet removed. You will need a proxy server to transfer clients from now on.
